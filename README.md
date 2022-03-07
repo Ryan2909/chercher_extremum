@@ -1,1 +1,0 @@
-# chercher_extremum
